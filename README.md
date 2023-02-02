@@ -25,9 +25,21 @@ CHEMIN 1 : Terminer tous les cours du parcour developpeur Python OpenClassroom
 
 ### Durée 
 
-MODULE | #DUREE
+MODULE | DUREE
 --- | --- 
-Seconds | 301
+1 ,2 et 3 | 1 SEMAINE
+--- | --- 
+4 ,5 et 6 | 1 SEMAINE
+--- | --- 
+7 et 8 | 1 SEMAINE
+--- | --- 
+9 | 1 SEMAINE
+--- | --- 
+10 | 1 SEMAINE
+--- | ---
+11 | 1 SEMAINE
+--- | ---
+DUREE TOTAL | 6 SEMAINES
 
 
 1. Démarrez votre formation de Développeur d’application - Python
