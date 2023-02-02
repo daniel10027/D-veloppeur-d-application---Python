@@ -23,6 +23,13 @@ il/elle se sert – les développeur(se)s apprennent tout au long de leur vie !
 CHEMIN 1 : Terminer tous les cours du parcour developpeur Python OpenClassroom
 
 
+### Durée 
+
+MODULE | #DUREE
+--- | --- 
+Seconds | 301
+
+
 1. Démarrez votre formation de Développeur d’application - Python
 
   - [Engagez-vous dans votre formation OpenClassrooms](https://openclassrooms.com/fr/courses/7381081-engagez-vous-dans-votre-formation-openclassrooms)
