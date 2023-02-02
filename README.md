@@ -26,18 +26,17 @@ CHEMIN 1 : Terminer tous les cours du parcour developpeur Python OpenClassroom
 ### Durée 
 
 MODULE | DUREE
-
-1 ,2 et 3 | 1 SEMAINE
+MODULES 1 ,2 et 3 | 1 SEMAINE
 --- | ---
-4 ,5 et 6 | 1 SEMAINE
+MODULES 4 ,5 et 6 | 1 SEMAINE
 --- | ---
-7 et 8 | 1 SEMAINE
+MODULES 7 et 8 | 1 SEMAINE
 --- | ---
-9 | 1 SEMAINE
+MODULE 9 | 1 SEMAINE
 --- | ---
-10 | 1 SEMAINE
+MODULE 10 | 1 SEMAINE
 --- | ---
-11 | 1 SEMAINE
+MODULE 11 | 1 SEMAINE
 --- | ---
 DUREE TOTAL | 6 SEMAINES
 
