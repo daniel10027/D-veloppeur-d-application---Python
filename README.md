@@ -110,6 +110,20 @@ DUREE TOTAL | 6 SEMAINES
 
 CHEMIN 2  : PROJET DJANGO (Full-Featured Web App)
 
+### Durée 
+
+MODULE | DUREE
+--- | ---
+MODULES 1 ,2 et 3 | 1 SEMAINE
+--- | ---
+MODULES 4 ,5 et 6 | 1 SEMAINE
+--- | ---
+MODULES 7 ,8 et 9 | 1 SEMAINE
+--- | ---
+MODULE 10,11 et 12 | 1 SEMAINE
+--- | ---
+DUREE TOTAL | 4 SEMAINES (1 Mois)
+
   - [Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
   - [Python Django Tutorial: Full-Featured Web App Part 2 - Applications and Routes](https://www.youtube.com/watch?v=a48xeeo5Vnk&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=2)
   - [Python Django Tutorial: Full-Featured Web App Part 3 - Templates](https://www.youtube.com/watch?v=qDwdMDQ8oX4&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=3)
