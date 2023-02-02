@@ -30,7 +30,7 @@ CHEMIN 1 : Terminer tous les cours du parcour developpeur Python OpenClassroom
 2. Utilisez les bases de Python pour l'analyse de marché
 
   - [Apprenez les bases du langage Python](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
-  - [Initiez-vous à Python pour l'analyse de données](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
+  - [Initiez-vous à Python pour l'analyse de données](https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees)
   - [Apprenez à utiliser la ligne de commande dans un terminal](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal)
   - [Mettez en place votre environnement Python](https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python)
   - [Prenez la parole en public](https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public)
