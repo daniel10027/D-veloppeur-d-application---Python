@@ -20,3 +20,21 @@ il/elle se sert – les développeur(se)s apprennent tout au long de leur vie !
 
 
 
+### CHEMIN 
+
+
+1. Terminer tous les cours du parcour developpeur Python OpenClassroom *
+
+  - [Engagez-vous dans votre formation OpenClassrooms](https://openclassrooms.com/fr/courses/7381081-engagez-vous-dans-votre-formation-openclassrooms)
+  - [Apprenez les bases du langage Python](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
+  - [Initiez-vous à Python pour l'analyse de données](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
+  - [Apprenez à utiliser la ligne de commande dans un terminal](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal)
+  - [Mettez en place votre environnement Python](https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python)*
+  - [Prenez la parole en public](https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public)
+  - [Gérez du code avec Git et GitHub](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
+  - [Initiez-vous à la gestion de projet agile](https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile)
+  - [Devenez développeur agile](https://openclassrooms.com/fr/courses/7693926-devenez-developpeur-agile)
+
+
+
+
